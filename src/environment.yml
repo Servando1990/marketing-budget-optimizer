@@ -1,4 +1,4 @@
-name: prophet
+name: marketing-budget-optimizer
 channels:
   - anaconda
   - conda-forge
